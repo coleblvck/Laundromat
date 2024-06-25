@@ -1,0 +1,6 @@
+A simple Music Folder Sorting Utility for Android.
+
+- Select Laundry Folder
+- Select Output Folder
+- Preview/Review and Confirm
+- Done.

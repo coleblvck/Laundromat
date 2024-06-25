@@ -13,13 +13,10 @@ A simple Music Folder Sorting Utility for Android.
 - Preview/Review and Confirm
 - Done.
 
-<div align="center">
-
 ## Screenshot
 
 <img alt="Shelf home screen" src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="45%">
 
-</div>
 
 ## To-Do
 - Some refactoring
